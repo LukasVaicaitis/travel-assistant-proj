@@ -9,8 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "@emotion/react": "^11.13.5",
+    "@mantine/core": "^7.14.3",
+    "@mantine/dates": "^7.14.3",
+    "@mantine/hooks": "^7.14.3",
+    "@mantine/next": "^6.0.22",
+    "@mantine/notifications": "^7.14.3",
+    "axios": "^1.7.8",
+    "dayjs": "^1.11.13",
+    "leaflet": "^1.9.4",
+    "next": "15.0.3",
+    "next-auth": "^4.24.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1"
   }
 }
